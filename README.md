@@ -7,6 +7,11 @@ See YouTube video linked below for more information about this project. The code
 <a href="https://www.youtube.com/watch?v=m_QQrMqQb04" target="_blank"><img src="http://img.youtube.com/vi/m_QQrMqQb04/0.jpg" 
 alt="Photon Weather Display" width="480" height="360" border="10" /></a>
 
+Wiring diagram:
+
+<img src="https://cloud.githubusercontent.com/assets/11914694/11531489/cb7dd742-98c2-11e5-8517-1fbe557323ad.PNG" alt="Wiring Diagram">
+
+
 Copyright (c) 2015 Grady Hillhouse
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
